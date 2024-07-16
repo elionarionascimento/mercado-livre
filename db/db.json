@@ -1,0 +1,72 @@
+{
+    "produtos":{
+        "veiculos":[
+            {
+                "id": 1,
+                "marca": "Fiat",
+                "modelo": "pulse",
+                "ano": 2023
+            },
+
+            {
+                "id": 2,
+                "marca": "Chevrolet",
+                "modelo": "Onix",
+                "ano": 2022
+            },
+
+            {
+                "id": 3,
+                "marca": "Fiat",
+                "modelo": "pulse",
+                "ano": 2023
+            }
+        ],
+
+        "tecnologia":[
+            {
+                "id": 1,
+                "merca": "dell",
+                "modelo": "Inspiron 15",
+                "ano": "2023"
+            },
+
+            {
+                "id": 2,
+                "marca": "Samsung",
+                "modelo": "Book 360",
+                "ano": 2023
+            },
+
+            {
+                "id": 3,
+                "marca": "Lenovo",
+                "modelo": "Ideapad 145",
+                "ano": 2023
+            }
+        ],
+
+        "eletrodomestico":[
+            {
+                "id": 1,
+                "marca": "Philco",
+                "modelo": "Cafeteira",
+                "ano": 2023
+            },
+
+            {
+                "id": 2,
+                "marca": "Eletrolux",
+                "modelo": "Micro-ondas",
+                "ano": 2023
+            },
+
+            {
+                "id": 3,
+                "marca": "LG",
+                "modelo": "Ar-condicionado",
+                "ano": 2023
+            }
+        ]
+    }
+}
